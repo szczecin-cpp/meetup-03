@@ -11,6 +11,7 @@ Quiz:
 * [Zadanie 1](quiz/part-01.cpp)
 * [Zadanie 2](quiz/part-02.cpp)
 * [Zadanie 3](quiz/part-03.cpp)
+* [Wyniki](quiz/results.pdf)
 
 Partnerzy wydarzenia:
 * [intive](https://intive.com)

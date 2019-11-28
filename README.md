@@ -7,6 +7,11 @@ Prezentacje:
 * Hubert Liberacki: **C++ accessing private member – how we've been lied to**
 * Marcin Lisowski: **Zrozumieć lambdy w C++** ([PDF](03-lambdas.pdf))
 
+Quiz:
+* [Zadanie 1](quiz/part-01.cpp)
+* [Zadanie 2](quiz/part-02.cpp)
+* [Zadanie 3](quiz/part-03.cpp)
+
 Partnerzy wydarzenia:
 * [intive](https://intive.com)
 * [GlobalLogic](https://www.globallogic.com)

@@ -4,7 +4,7 @@
 
 Prezentacje:
 * Michał Cichowicz: **Bare metal i C++ na przykładzie Raspberry Pi i biblioteki Circle** ([PDF](01-rpi-baremetal.pdf))
-* Hubert Liberacki: **C++ accessing private member – how we've been lied to**
+* Hubert Liberacki: **C++ accessing private member – how we've been lied to (live coding)**
 * Marcin Lisowski: **Zrozumieć lambdy w C++** ([PDF](03-lambdas.pdf))
 
 Quiz:
